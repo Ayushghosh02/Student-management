@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+body {
+    background-image: url('/student-management/resources/static/images/Build.jpeg');
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+}
